@@ -1,2 +1,2 @@
 # xinglong
-vue&amp;element-ui demo
+vue&amp;element-ui demo for personal study
